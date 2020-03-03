@@ -1,7 +1,8 @@
 ## [Back to Homepage](https://pengchen11.github.io/reading-notes/readme.md)
 
 # Class-02 Readings
-## 1. HTML Headings
+## 1. HTML 
+### Headings
   ``` 
   Headings are defined with the <h1> to <h6> tags.
   <h1>Heading 1</h1>
@@ -13,7 +14,7 @@
 
 ```
 
-## 2. HTML Paragraph
+### Paragraph
 ```
 The HTML <p> element defines a paragraph,
 The HTML <br> element defines a line break.
@@ -30,7 +31,7 @@ The HTML <br> element defines a line break.
 </html>
 
 ```
-## 3. HTML Formating Elements
+### Formating Elements
 
 ```
 <b> - Bold text
@@ -45,7 +46,7 @@ The HTML <br> element defines a line break.
 <sup> - Superscript text
 ```
 
-## 4. HTML Quotations
+### Quotations
 ```
 The HTML <q> element defines a short quotation.
 
@@ -57,7 +58,7 @@ Browsers usually insert quotation marks around the <q> element.
 
 ```
 
-## 5. CSS
+## 2. CSS
 CSS is a language that describes the style of an HTML document.
 
 CSS describes how HTML elements should be displayed.
@@ -79,10 +80,37 @@ p {
 ### Selectors
 All CSS Simple Selectors
 |Selector	|Example	|Example description |
+|---|:---|:---|
 |.class	|.intro	|Selects all elements with class="intro" |
+|#id	|#firstname	|Selects the element with id="firstname"|
+|*	|*	|Selects all elements|
+|element	|p	|Selects all <p> elements|
+|element,element,..	|div, p	|Selects all <div> elements and all <p> elements|
 
+### Three Ways to Insert CSS
+There are three ways of inserting a style sheet:
 
-#id	#firstname	Selects the element with id="firstname"
-*	*	Selects all elements
-element	p	Selects all <p> elements
-element,element,..	div, p	Selects all <div> elements and all <p> elements
+- External CSS
+```
+<link rel="stylesheet" type="text/css" href="mystyle.css">
+```
+- Internal CSS
+```
+<style>
+body {
+  background-color: linen;
+}
+
+h1 {
+  color: maroon;
+  margin-left: 40px;
+} 
+</style>
+```
+- Inline CSS
+```
+<h1 style="color:blue;text-align:center;">This is a heading</h1>
+<p style="color:red;">This is a paragraph.</p>
+```
+
+## 3.JavaScript

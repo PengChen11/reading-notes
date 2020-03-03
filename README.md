@@ -3,6 +3,7 @@ This webpage contains the details about all the reading notes for Code 201 class
 ## Table of content
 1. [Pre-work](https://pengchen11.github.io/learning-journal/)
    - This is the link to my 102 course work. 
-2. [1st day notes](https://pengchen11.github.io/reading-notes/class-02)
-   - This is the link to **Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions** assignment. 
+2. Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
+   - [HTML and CSS](https://pengchen11.github.io/reading-notes/class-02). 
+   - [JavaScript](https://pengchen11.github.io/learning-journal/read_08)
 
