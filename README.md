@@ -10,3 +10,7 @@ This webpage contains the details about all the reading notes for Code 201 class
 3. Read: 03 - HTML Lists, CSS Boxes, JS Control Flow
    - [HTML lists and CSS boxes](https://pengchen11.github.io/reading-notes/class-03)
    - [JS control flow](https://pengchen11.github.io/learning-journal/read_08)
+
+4. Read: 04 - HTML Links, CSS Layout, JS Functions
+   - [JS functions](https://pengchen11.github.io/learning-journal/read_08)
+   - [HTML links and CSS layout](https://pengchen11.github.io/reading-notes/class-04)
