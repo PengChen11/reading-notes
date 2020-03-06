@@ -14,3 +14,8 @@ This webpage contains the details about all the reading notes for Code 201 class
 4. Read: 04 - HTML Links, CSS Layout, JS Functions
    - [JS functions](https://pengchen11.github.io/learning-journal/read_08)
    - [HTML links and CSS layout](https://pengchen11.github.io/reading-notes/class-04)
+  
+5. Read: 05 - HTML Images; CSS Color & Text
+   - [HTML Images; CSS Color & Text](https://pengchen11.github.io/reading-notes/class-05)
+  
+  
