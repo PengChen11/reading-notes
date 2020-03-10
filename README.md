@@ -18,4 +18,7 @@ This webpage contains the details about all the reading notes for Code 201 class
 5. Read: 05 - HTML Images; CSS Color & Text
    - [HTML Images; CSS Color & Text](https://pengchen11.github.io/reading-notes/class-05)
   
-  
+6. Read: 06 - JS Object Literals; The DOM
+   - [JS Object Literals; The DOM](https://pengchen11.github.io/reading-notes/class-06)
+7. Read: 07 - HTML Tables; JS Constructor Functions
+   - [HTML Tables; JS Constructor Functions](https://pengchen11.github.io/reading-notes/class-05)
