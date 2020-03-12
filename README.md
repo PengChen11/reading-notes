@@ -25,4 +25,4 @@ This webpage contains the details about all the reading notes for Code 201 class
 8. Read: 08 - More CSS Layout
    - [Read: 08 - More CSS Layout](https://pengchen11.github.io/reading-notes/class-08)
 9.  Read: 09 - Forms and Events  
-   - [Read: 09 - Forms and Events](https://pengchen11.github.io/reading-notes/class-09)
+    - [Read: 09 - Forms and Events](https://pengchen11.github.io/reading-notes/class-09)
