@@ -22,5 +22,7 @@ This webpage contains the details about all the reading notes for Code 201 class
    - [JS Object Literals; The DOM](https://pengchen11.github.io/reading-notes/class-06)
 7. Read: 07 - HTML Tables; JS Constructor Functions
    - [HTML Tables; JS Constructor Functions](https://pengchen11.github.io/reading-notes/class-07)
-8. Read: 09 - Forms and Events
-   -[Read: 09 - Forms and Events](https://pengchen11.github.io/reading-notes/class-09)
+8. Read: 08 - More CSS Layout
+   - [Read: 08 - More CSS Layout](https://pengchen11.github.io/reading-notes/class-08)
+9.  Read: 09 - Forms and Events  
+   - [Read: 09 - Forms and Events](https://pengchen11.github.io/reading-notes/class-09)
