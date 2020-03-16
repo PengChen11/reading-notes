@@ -29,4 +29,7 @@ This webpage contains the details about all the reading notes for Code 201 class
 
 10. Read: 10 - JS Debugging
     - [Read: 10 - JS Debugging](https://pengchen11.github.io/reading-notes/class-10)
+
+11. Read: 11 - Assorted Topics
+    - [Assorted Topics](https://pengchen11.github.io/reading-notes/class-11)
   
