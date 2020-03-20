@@ -41,3 +41,6 @@ This webpage contains the details about all the reading notes for Code 201 class
 
 14. Read: 14a - CSS Transforms, Transitions, and Animations
     - [CSS Transforms, Transitions, and Animations](https://pengchen11.github.io/reading-notes/class-14)
+  
+15. Read: 14b - What Google Learned About Teams
+    -[What Google Learned About Teams](https://pengchen11.github.io/reading-notes/class-15)
