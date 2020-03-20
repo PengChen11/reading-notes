@@ -39,3 +39,5 @@ This webpage contains the details about all the reading notes for Code 201 class
 13. Read: 13 - Local Storage
     - [Local Storage](https://pengchen11.github.io/reading-notes/class-13)
 
+14. Read: 14a - CSS Transforms, Transitions, and Animations
+    - [CSS Transforms, Transitions, and Animations](https://pengchen11.github.io/reading-notes/class-14)
