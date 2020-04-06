@@ -37,5 +37,5 @@ This webpage contains the details about all the reading notes for Code Fellows c
 ## Code 301 Reading Notes
 1. [Read: 01 - SMACSS and Responsive Web Design](https://pengchen11.github.io/reading-notes/301/301-01)
 
-2.
+2. [Read: 02 - jQuery, Events, and The DOM](https://pengchen11.github.io/reading-notes/301/301-02)
 
