@@ -1,5 +1,3 @@
-## [Back to Homepage](https://pengchen11.github.io/reading-notes/readme.md)
-
 # CSS Website Layout
 A website is often divided into headers, menus, content and a footer:  
 

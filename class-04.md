@@ -1,5 +1,3 @@
-## [Back to Homepage](https://pengchen11.github.io/reading-notes/readme.md)
-
 # 1. HTML links  
 HTML links are hyperlinks.  
 You can click on a link and jump to another document.  

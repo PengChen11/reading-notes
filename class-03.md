@@ -1,5 +1,3 @@
-## [Back to Homepage](https://pengchen11.github.io/reading-notes/readme.md)
-
 # Class-03 Readings
 ## 1. HTML lists
 - ### Unordered HTML List

@@ -1,5 +1,3 @@
-## [Back to Homepage](https://pengchen11.github.io/reading-notes/readme.md)
-
 # 8 years ago, Google set out to find what makes the ‘perfect’ team — and what they found shocked other researchers
 
 

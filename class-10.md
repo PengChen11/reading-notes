@@ -1,5 +1,3 @@
-## [Back to Homepage](https://pengchen11.github.io/reading-notes/readme.md)
-
 # JS Debugging
 ## JavaScript Debuggers
 Debugging is not easy. But fortunately, all modern browsers have a built-in JavaScript debugger.

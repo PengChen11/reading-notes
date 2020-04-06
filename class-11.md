@@ -1,5 +1,3 @@
-## [Back to Homepage](https://pengchen11.github.io/reading-notes/readme.md)
-
 ## 1. CSS Background Image
 The background-image property specifies an image to use as the background of an element.  
 By default, the image is repeated so it covers the entire element.

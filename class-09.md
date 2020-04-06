@@ -1,5 +1,3 @@
-## [Back to Homepage](https://pengchen11.github.io/reading-notes/readme.md)
-
 # 1. HTML Forms
 
 ## The ```<form>``` Element  

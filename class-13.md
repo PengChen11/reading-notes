@@ -1,4 +1,3 @@
-## [Back to Homepage](https://pengchen11.github.io/reading-notes/readme.md)
 # Definition and Usage
 The localStorage properties allow to save key/value pairs in a web browser.
 

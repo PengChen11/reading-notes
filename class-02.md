@@ -1,5 +1,3 @@
-## [Back to Homepage](https://pengchen11.github.io/reading-notes/readme.md)
-
 # Class-02 Readings
 ## 1. HTML 
 ### Headings

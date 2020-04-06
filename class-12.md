@@ -1,5 +1,3 @@
-## [Back to Homepage](https://pengchen11.github.io/reading-notes/readme.md)
-
 # 1. What is HTML Canvas?
 The HTML ```<canvas>``` element is used to draw graphics, on the fly, via JavaScript.
 

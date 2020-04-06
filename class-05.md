@@ -1,5 +1,3 @@
-## [Back to Homepage](https://pengchen11.github.io/reading-notes/readme.md)
-
 # HTML images
 Images can improve the design and the appearance of a web page.
 

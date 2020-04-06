@@ -1,5 +1,3 @@
-## [Back to Homepage](https://pengchen11.github.io/reading-notes/readme.md)
-
 # Defining an HTML Table  
 ```
 An HTML table is defined with the <table> tag.

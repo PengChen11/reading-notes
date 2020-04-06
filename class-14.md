@@ -1,5 +1,3 @@
-## [Back to Homepage](https://pengchen11.github.io/reading-notes/readme.md)
-
 # CSS Animations
 CSS allows animation of HTML elements without using JavaScript or Flash!
 
