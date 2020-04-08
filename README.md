@@ -39,3 +39,4 @@ This webpage contains the details about all the reading notes for Code Fellows c
 
 2. [Read: 02 - jQuery, Events, and The DOM](https://pengchen11.github.io/reading-notes/301/301-02)
 
+3. [Read: 03 - Flexbox and Templating](https://pengchen11.github.io/reading-notes/301/301-03)
