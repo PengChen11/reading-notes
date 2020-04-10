@@ -43,3 +43,4 @@ This webpage contains the details about all the reading notes for Code Fellows c
 
 4. [Read: 04 - Responsive Web Design and Regular Expressions](https://pengchen11.github.io/reading-notes/301/301-04)
 
+5. [Read: 05 - Heroku Deployment](https://pengchen11.github.io/reading-notes/301/301-05)
