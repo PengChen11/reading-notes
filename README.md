@@ -48,3 +48,5 @@ This webpage contains the details about all the reading notes for Code Fellows c
 6. [Read: 06 - Node, Express, and APIs](https://pengchen11.github.io/reading-notes/301/301-06)
 
 7. [Read: 08 - SQL](https://pengchen11.github.io/reading-notes/301/301-07)
+
+8. [Read: 09 - Refactoring](https://pengchen11.github.io/reading-notes/301/301-09)
