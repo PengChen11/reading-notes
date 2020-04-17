@@ -50,3 +50,5 @@ This webpage contains the details about all the reading notes for Code Fellows c
 7. [Read: 08 - SQL](https://pengchen11.github.io/reading-notes/301/301-07)
 
 8. [Read: 09 - Refactoring](https://pengchen11.github.io/reading-notes/301/301-09)
+
+9. [Read: 10 - The Call Stack and Debugging](https://pengchen11.github.io/reading-notes/301/301-10)
