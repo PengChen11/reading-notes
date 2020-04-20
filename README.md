@@ -54,3 +54,5 @@ This webpage contains the details about all the reading notes for Code Fellows c
 9. [Read: 10 - The Call Stack and Debugging](https://pengchen11.github.io/reading-notes/301/301-10)
 
 10. [Read: 11 - EJS](https://pengchen11.github.io/reading-notes/301/301-11)
+
+11. [Read: 12 - Components](https://pengchen11.github.io/reading-notes/301/301-12)
