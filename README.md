@@ -56,3 +56,5 @@ This webpage contains the details about all the reading notes for Code Fellows c
 10. [Read: 11 - EJS](https://pengchen11.github.io/reading-notes/301/301-11)
 
 11. [Read: 12 - Components](https://pengchen11.github.io/reading-notes/301/301-12)
+
+12. [Read: 13 - Update/Delete](https://pengchen11.github.io/reading-notes/301/301-13)
