@@ -60,3 +60,5 @@ This webpage contains the details about all the reading notes for Code Fellows c
 12. [Read: 13 - Update/Delete](https://pengchen11.github.io/reading-notes/301/301-13)
 
 13. [Read: 14 - DB Normalization](https://pengchen11.github.io/reading-notes/301/301-14)
+
+14. [Read: 15 - Diversity and Inclusion](https://pengchen11.github.io/reading-notes/301/301-15)
