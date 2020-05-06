@@ -62,3 +62,8 @@ This webpage contains the details about all the reading notes for Code Fellows c
 13. [Read: 14 - DB Normalization](https://pengchen11.github.io/reading-notes/301/301-14)
 
 14. [Read: 15 - Diversity and Inclusion](https://pengchen11.github.io/reading-notes/301/301-15)
+
+## Code 401 Reading Notes
+
+## Python Notes
+1. 3-3 [Logical and bit operations in Python](https://pengchen11.github.io/reading-notes/python/3-3)
