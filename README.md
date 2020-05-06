@@ -66,6 +66,10 @@ This webpage contains the details about all the reading notes for Code Fellows c
 ## Code 401 Reading Notes
 
 ## Python Notes
-1. [3-2 Loops ](https://pengchen11.github.io/reading-notes/python/3-2)
+1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
+   
 2. [3-3 Logical and bit operations](https://pengchen11.github.io/reading-notes/python/3-3)
-3. 
+   
+3. [3-4 Lists](https://pengchen11.github.io/reading-notes/python/3-4)
+   
+4. 
