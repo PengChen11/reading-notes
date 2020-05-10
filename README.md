@@ -64,6 +64,7 @@ This webpage contains the details about all the reading notes for Code Fellows c
 14. [Read: 15 - Diversity and Inclusion](https://pengchen11.github.io/reading-notes/301/301-15)
 
 ## Code 401 Reading Notes
+1. [Class 01 reading](https://pengchen11.github.io/reading-notes/401/401-01)
 
 ## Python Notes
 1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
