@@ -66,6 +66,7 @@ This webpage contains the details about all the reading notes for Code Fellows c
 ## Code 401 Reading Notes
 1. [Class 01 reading](https://pengchen11.github.io/reading-notes/401/401-01)
 2. [Class 02 reading](https://pengchen11.github.io/reading-notes/401/401-02)
+3. [Class 03 Readings: FileIO & Exceptions](https://pengchen11.github.io/reading-notes/401/401-03)
 
 ## Python Notes
 1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
