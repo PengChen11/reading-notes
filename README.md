@@ -72,6 +72,8 @@ This webpage contains the details about all the reading notes for Code Fellows c
    
 4. [Class 04 readings: Classes and Objects](https://pengchen11.github.io/reading-notes/401/401-04)
 
+5. [Class 05 readings: Linked Lists](https://pengchen11.github.io/reading-notes/401/401-05)
+
 ## Python Notes
 1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
    
