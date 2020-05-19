@@ -76,6 +76,8 @@ This webpage contains the details about all the reading notes for Code Fellows c
 
 6. [Class 06 readings: Random Module and Dependency Injection](401/401-06.md)
 
+7. [Class 07 readings: whatever](https://pengchen11.github.io/reading-notes/401/401-07)
+
 ## Python Notes
 1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
    
