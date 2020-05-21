@@ -79,6 +79,9 @@ This webpage contains the details about all the reading notes for Code Fellows c
 7. [Class 07 readings: Python scope](https://pengchen11.github.io/reading-notes/401/401-07)
 
 8. [Class 08 readings: List Comprehensions](https://pengchen11.github.io/reading-notes/401/401-08)
+
+9. [Class 09 readings: Basic Statistics in Python — Probability](https://pengchen11.github.io/reading-notes/401/401-09)
+
 ## Python Notes
 1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
    
