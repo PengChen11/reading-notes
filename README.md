@@ -82,6 +82,9 @@ This webpage contains the details about all the reading notes for Code Fellows c
 
 9. [Class 09 readings: Basic Statistics in Python — Probability](https://pengchen11.github.io/reading-notes/401/401-09)
 
+10. [Class 10 readings: Stacks and Queues](https://pengchen11.github.io/reading-notes/401/401-10)
+
+
 ## Python Notes
 1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
    
