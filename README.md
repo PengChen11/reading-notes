@@ -84,6 +84,7 @@ This webpage contains the details about all the reading notes for Code Fellows c
 
 10. [Class 10 readings: Stacks and Queues](https://pengchen11.github.io/reading-notes/401/401-10)
 
+11. [Class 11 readings: Numpy](https://pengchen11.github.io/reading-notes/401/401-11)
 
 ## Python Notes
 1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
