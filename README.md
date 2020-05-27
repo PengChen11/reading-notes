@@ -86,6 +86,8 @@ This webpage contains the details about all the reading notes for Code Fellows c
 
 11. [Class 11 readings: Numpy](https://pengchen11.github.io/reading-notes/401/401-11)
 
+12. [Class 12 reawdings: pandas](https://pengchen11.github.io/reading-notes/401/401-12)
+
 ## Python Notes
 1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
    
