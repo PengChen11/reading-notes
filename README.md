@@ -89,6 +89,8 @@ This webpage contains the details about all the reading notes for Code Fellows c
 12. [Class 12 readings: pandas](https://pengchen11.github.io/reading-notes/401/401-12)
 
 13. [Class 13 readings: Linear Regressions](https://pengchen11.github.io/reading-notes/401/401-13)
+
+14. [Class 14 readings: Tree](https://pengchen11.github.io/reading-notes/401/401-14)
     
 
 ## Python Notes
