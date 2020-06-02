@@ -94,6 +94,8 @@ This webpage contains the details about all the reading notes for Code Fellows c
     
 15. [Class 15 readings: Data Visualization](https://pengchen11.github.io/reading-notes/401/401-15)
 
+16. [Class 17 readings: Web Scraping](https://pengchen11.github.io/reading-notes/401/401-17)
+
 ## Python Notes
 1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
    
