@@ -100,6 +100,8 @@ This webpage contains the details about all the reading notes for Code Fellows c
 
 18. [Class 19 readings: Automation](https://pengchen11.github.io/reading-notes/401/401-19)
 
+19. [Class 26 readings: Django](https://pengchen11.github.io/reading-notes/401/401-26)
+
 ## Python Notes
 1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
    
