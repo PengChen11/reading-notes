@@ -91,7 +91,7 @@ This webpage contains the details about all the reading notes for Code Fellows c
 13. [Class 13 readings: Linear Regressions](https://pengchen11.github.io/reading-notes/401/401-13)
 
 14. [Class 14 readings: Tree](https://pengchen11.github.io/reading-notes/401/401-14)
-    
+
 15. [Class 15 readings: Data Visualization](https://pengchen11.github.io/reading-notes/401/401-15)
 
 16. [Class 17 readings: Web Scraping](https://pengchen11.github.io/reading-notes/401/401-17)
@@ -102,11 +102,12 @@ This webpage contains the details about all the reading notes for Code Fellows c
 
 19. [Class 26 readings: Django](https://pengchen11.github.io/reading-notes/401/401-26)
 
+20. [Class 27 readings: Dango admin and models](https://pengchen11.github.io/reading-notes/401/401-27)
+
 ## Python Notes
+
 1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
-   
+
 2. [3-3 Logical and bit operations](https://pengchen11.github.io/reading-notes/python/3-3)
-   
+
 3. [3-4 Lists](https://pengchen11.github.io/reading-notes/python/3-4)
-   
-   
