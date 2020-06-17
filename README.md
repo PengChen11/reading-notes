@@ -104,6 +104,8 @@ This webpage contains the details about all the reading notes for Code Fellows c
 
 20. [Class 27 readings: Dango admin and models](https://pengchen11.github.io/reading-notes/401/401-27)
 
+21. [Class 28 Readings: Dango forms](https://pengchen11.github.io/reading-notes/401/401-28)
+
 ## Python Notes
 
 1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
