@@ -106,6 +106,8 @@ This webpage contains the details about all the reading notes for Code Fellows c
 
 21. [Class 28 Readings: Dango forms](https://pengchen11.github.io/reading-notes/401/401-28)
 
+22. [Class 29 readings: Django Custom user model](https://pengchen11.github.io/reading-notes/401/401-29)
+
 ## Python Notes
 
 1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
