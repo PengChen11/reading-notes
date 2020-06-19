@@ -1,10 +1,14 @@
 # Reading Notes
+
 This webpage contains the details about all the reading notes for Code Fellows class. It is created and maintenanced by Peng Chen.
+
 ## Code 201 Reading Notes
+
 1. [Pre-work](https://pengchen11.github.io/learning-journal/)
-   - This is the link to my 102 course work. 
+   - This is the link to my 102 course work.
+
 2. Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
-   - [HTML and CSS](https://pengchen11.github.io/reading-notes/201/class-02). 
+   - [HTML and CSS](https://pengchen11.github.io/reading-notes/201/class-02).
    - [JavaScript](https://pengchen11.github.io/learning-journal/read_08)
 
 3. Read: 03 - HTML Lists, CSS Boxes, JS Control Flow
@@ -20,7 +24,7 @@ This webpage contains the details about all the reading notes for Code Fellows c
 6. [Read: 06 - JS Object Literals; The DOM](https://pengchen11.github.io/reading-notes/201/class-06)
 7. [Read: 07 - HTML Tables; JS Constructor Functions](https://pengchen11.github.io/reading-notes/201/class-07)
 8. [Read: 08 - More CSS Layout](https://pengchen11.github.io/reading-notes/201/class-08)
-9.  [Read: 09 - Forms and Events](https://pengchen11.github.io/reading-notes/201/class-09)
+9. [Read: 09 - Forms and Events](https://pengchen11.github.io/reading-notes/201/class-09)
 
 10. [Read: 10 - JS Debugging](https://pengchen11.github.io/reading-notes/201/class-10)
 
@@ -35,6 +39,7 @@ This webpage contains the details about all the reading notes for Code Fellows c
 15. [Read: 14b - What Google Learned About Teams](https://pengchen11.github.io/reading-notes/201/class-15)
 
 ## Code 301 Reading Notes
+
 1. [Read: 01 - SMACSS and Responsive Web Design](https://pengchen11.github.io/reading-notes/301/301-01)
 
 2. [Read: 02 - jQuery, Events, and The DOM](https://pengchen11.github.io/reading-notes/301/301-02)
@@ -64,12 +69,13 @@ This webpage contains the details about all the reading notes for Code Fellows c
 14. [Read: 15 - Diversity and Inclusion](https://pengchen11.github.io/reading-notes/301/301-15)
 
 ## Code 401 Reading Notes
+
 1. [Class 01 reading](https://pengchen11.github.io/reading-notes/401/401-01)
-   
+
 2. [Class 02 reading](https://pengchen11.github.io/reading-notes/401/401-02)
-   
+
 3. [Class 03 Readings: FileIO & Exceptions](https://pengchen11.github.io/reading-notes/401/401-03)
-   
+
 4. [Class 04 readings: Classes and Objects](https://pengchen11.github.io/reading-notes/401/401-04)
 
 5. [Class 05 readings: Linked Lists](https://pengchen11.github.io/reading-notes/401/401-05)
