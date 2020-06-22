@@ -116,6 +116,8 @@ This webpage contains the details about all the reading notes for Code Fellows c
 
 23. [Class 30 readings: Hash Table](https://pengchen11.github.io/reading-notes/401/401-30)
 
+24. [Class 31 readings: docker and Django REST Framework](https://pengchen11.github.io/reading-notes/401/401-31)
+
 ## Python Notes
 
 1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
