@@ -118,6 +118,8 @@ This webpage contains the details about all the reading notes for Code Fellows c
 
 24. [Class 31 readings: docker and Django REST Framework](https://pengchen11.github.io/reading-notes/401/401-31)
 
+25. [Class 32 readings: Django Permissions](https://pengchen11.github.io/reading-notes/401/401-32)
+
 ## Python Notes
 
 1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
