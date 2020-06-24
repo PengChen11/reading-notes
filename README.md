@@ -120,6 +120,8 @@ This webpage contains the details about all the reading notes for Code Fellows c
 
 25. [Class 32 readings: Django Permissions](https://pengchen11.github.io/reading-notes/401/401-32)
 
+26. [Class 33 readings: JSON web token](https://pengchen11.github.io/reading-notes/401/401-33)
+
 ## Python Notes
 
 1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
