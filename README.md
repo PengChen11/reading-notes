@@ -124,6 +124,8 @@ This webpage contains the details about all the reading notes for Code Fellows c
 
 27. [Class 34 readings: Django Settings: Best Practices](https://pengchen11.github.io/reading-notes/401/401-34)
 
+28. [Class 35 readings: Graphs](https://pengchen11.github.io/reading-notes/401/401-35)
+
 ## Python Notes
 
 1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
