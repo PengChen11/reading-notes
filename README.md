@@ -128,6 +128,8 @@ This webpage contains the details about all the reading notes for Code Fellows c
 
 29. [Class 36 readings: whiteboard interview tips](https://pengchen11.github.io/reading-notes/401/401-36)
 
+30. [Class 37 readings: REACT](https://pengchen11.github.io/reading-notes/401/401-37)
+
 ## Python Notes
 
 1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
