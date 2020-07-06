@@ -134,6 +134,8 @@ This webpage contains the details about all the reading notes for Code Fellows c
 
 32. [Class 39 readings: REACT part 3](https://pengchen11.github.io/reading-notes/401/401-39)
 
+33. [Class 40 readings: App Security](https://pengchen11.github.io/reading-notes/401/401-40)
+
 ## Python Notes
 
 1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
