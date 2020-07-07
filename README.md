@@ -136,6 +136,8 @@ This webpage contains the details about all the reading notes for Code Fellows c
 
 33. [Class 40 readings: App Security](https://pengchen11.github.io/reading-notes/401/401-40)
 
+34. [Class 41 readings: Misc](https://pengchen11.github.io/reading-notes/401/401-41)
+
 ## Python Notes
 
 1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
