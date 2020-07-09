@@ -140,6 +140,8 @@ This webpage contains the details about all the reading notes for Code Fellows c
 
 35. [Class 42 readings: Pythonisms](https://pengchen11.github.io/reading-notes/401/401-42)
 
+36. [Class 43 readings: SASS](https://pengchen11.github.io/reading-notes/401/401-43)
+
 ## Python Notes
 
 1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
