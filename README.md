@@ -1,42 +1,36 @@
 # Reading Notes
 
-This webpage contains the details about all the reading notes for Code Fellows class. It is created and maintenanced by Peng Chen.
+This webpage contains the details about all the reading notes for Code Fellows class and My continuing self study.
 
 ## Code 201 Reading Notes
 
-1. [Pre-work](https://pengchen11.github.io/learning-journal/)
-   - This is the link to my 102 course work.
-
-2. Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
+1. Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
    - [HTML and CSS](https://pengchen11.github.io/reading-notes/201/class-02).
-   - [JavaScript](https://pengchen11.github.io/learning-journal/read_08)
 
-3. Read: 03 - HTML Lists, CSS Boxes, JS Control Flow
+2. Read: 03 - HTML Lists, CSS Boxes, JS Control Flow
    - [HTML lists and CSS boxes](https://pengchen11.github.io/reading-notes/201/class-03)
-   - [JS control flow](https://pengchen11.github.io/learning-journal/read_08)
 
-4. Read: 04 - HTML Links, CSS Layout, JS Functions
-   - [JS functions](https://pengchen11.github.io/learning-journal/read_08)
+3. Read: 04 - HTML Links, CSS Layout, JS Functions
    - [HTML links and CSS layout](https://pengchen11.github.io/reading-notes/201/class-04)
   
-5. [Read: 05 - HTML Images; CSS Color & Text](https://pengchen11.github.io/reading-notes/201/class-05)
+4. [Read: 05 - HTML Images; CSS Color & Text](https://pengchen11.github.io/reading-notes/201/class-05)
   
-6. [Read: 06 - JS Object Literals; The DOM](https://pengchen11.github.io/reading-notes/201/class-06)
-7. [Read: 07 - HTML Tables; JS Constructor Functions](https://pengchen11.github.io/reading-notes/201/class-07)
-8. [Read: 08 - More CSS Layout](https://pengchen11.github.io/reading-notes/201/class-08)
-9. [Read: 09 - Forms and Events](https://pengchen11.github.io/reading-notes/201/class-09)
+5. [Read: 06 - JS Object Literals; The DOM](https://pengchen11.github.io/reading-notes/201/class-06)
+6. [Read: 07 - HTML Tables; JS Constructor Functions](https://pengchen11.github.io/reading-notes/201/class-07)
+7. [Read: 08 - More CSS Layout](https://pengchen11.github.io/reading-notes/201/class-08)
+8. [Read: 09 - Forms and Events](https://pengchen11.github.io/reading-notes/201/class-09)
 
-10. [Read: 10 - JS Debugging](https://pengchen11.github.io/reading-notes/201/class-10)
+9. [Read: 10 - JS Debugging](https://pengchen11.github.io/reading-notes/201/class-10)
 
-11. [Read: 11 - Assorted Topics](https://pengchen11.github.io/reading-notes/201/class-11)
+10. [Read: 11 - Assorted Topics](https://pengchen11.github.io/reading-notes/201/class-11)
   
-12. [Read: 12 - Docs for the HTML ```<canvas>``` Element & Chart.js](https://pengchen11.github.io/reading-notes/201/class-12)
+11. [Read: 12 - Docs for the HTML ```<canvas>``` Element & Chart.js](https://pengchen11.github.io/reading-notes/201/class-12)
 
-13. [Read: 13 - Local Storage](https://pengchen11.github.io/reading-notes/201/class-13)
+12. [Read: 13 - Local Storage](https://pengchen11.github.io/reading-notes/201/class-13)
 
-14. [Read: 14a - CSS Transforms, Transitions, and Animations](https://pengchen11.github.io/reading-notes/201/class-14)
+13. [Read: 14a - CSS Transforms, Transitions, and Animations](https://pengchen11.github.io/reading-notes/201/class-14)
   
-15. [Read: 14b - What Google Learned About Teams](https://pengchen11.github.io/reading-notes/201/class-15)
+14. [Read: 14b - What Google Learned About Teams](https://pengchen11.github.io/reading-notes/201/class-15)
 
 ## Code 301 Reading Notes
 
@@ -149,3 +143,9 @@ This webpage contains the details about all the reading notes for Code Fellows c
 2. [3-3 Logical and bit operations](https://pengchen11.github.io/reading-notes/python/3-3)
 
 3. [3-4 Lists](https://pengchen11.github.io/reading-notes/python/3-4)
+
+## Bootstrap Notes
+
+1. [1 Basic styles](Bootstrap/bt-1.md)
+
+2. [2 Mastering layout with Bootstrap](Bootstrap/bt-2.md)
