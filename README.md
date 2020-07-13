@@ -149,3 +149,5 @@ This webpage contains the details about all the reading notes for Code Fellows c
 1. [1 Basic styles](Bootstrap/bt-1.md)
 
 2. [2 Mastering layout with Bootstrap](Bootstrap/bt-2.md)
+
+3. [3 Navs and Navbar](Bootstrap/bt-3.md)
