@@ -1,4 +1,4 @@
-<title> Get Started with bootstrap</title>
+# Get Started with bootstrap
 
 [Table of Content](../README.md)
 
