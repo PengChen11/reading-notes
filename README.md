@@ -1,8 +1,8 @@
 # Reading Notes
 
-This webpage contains the details about all the reading notes for Code Fellows class and My continuing self study.
+This is my notebook contains the notes for knowledge that I self-studied and learned from  Code Fellows.
 
-## Self-study notes
+## Self-Study Notes
 
 ### Bootstrap
 
