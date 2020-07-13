@@ -2,16 +2,23 @@
 
 This webpage contains the details about all the reading notes for Code Fellows class and My continuing self study.
 
+## Self-study notes
+
+### Bootstrap
+
+1. [Basic styles](Bootstrap/bt-1.md)
+
+2. [Mastering layout with Bootstrap](Bootstrap/bt-2.md)
+
+3. [Navs and Navbar](Bootstrap/bt-3.md)
+
 ## Code 201 Reading Notes
 
-1. Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions
-   - [HTML and CSS](https://pengchen11.github.io/reading-notes/201/class-02).
+1. [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://pengchen11.github.io/reading-notes/201/class-02).
 
-2. Read: 03 - HTML Lists, CSS Boxes, JS Control Flow
-   - [HTML lists and CSS boxes](https://pengchen11.github.io/reading-notes/201/class-03)
+2. [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](https://pengchen11.github.io/reading-notes/201/class-03)
 
-3. Read: 04 - HTML Links, CSS Layout, JS Functions
-   - [HTML links and CSS layout](https://pengchen11.github.io/reading-notes/201/class-04)
+3. [Read: 04 - HTML Links, CSS Layout, JS Functions](https://pengchen11.github.io/reading-notes/201/class-04)
   
 4. [Read: 05 - HTML Images; CSS Color & Text](https://pengchen11.github.io/reading-notes/201/class-05)
   
@@ -144,10 +151,3 @@ This webpage contains the details about all the reading notes for Code Fellows c
 
 3. [3-4 Lists](https://pengchen11.github.io/reading-notes/python/3-4)
 
-## Bootstrap Notes
-
-1. [1 Basic styles](Bootstrap/bt-1.md)
-
-2. [2 Mastering layout with Bootstrap](Bootstrap/bt-2.md)
-
-3. [3 Navs and Navbar](Bootstrap/bt-3.md)
