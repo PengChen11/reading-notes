@@ -90,6 +90,18 @@
      - `fixed-bottom`
      - `sticky-top`
         - `Sticky-top` lacks support
+        - When using with `<a>` to go to a page section with id, it will mess up and block the content. Here's a working solution in css:
+
+         ```css
+           section[id]:before {
+              display: block;
+              height: 100px;   /* equal to the header height */
+              margin-top: -100px;  /* negative margin equal to the header height */
+              visibility: hidden;
+              content: "";
+              }
+         ```
+
 2. Basic Display
    1. Minics CSS
    2. `d(-BP)-TYP`

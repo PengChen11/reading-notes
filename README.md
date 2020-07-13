@@ -153,4 +153,3 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 2. [3-3 Logical and bit operations](https://pengchen11.github.io/reading-notes/python/3-3)
 
 3. [3-4 Lists](https://pengchen11.github.io/reading-notes/python/3-4)
-
