@@ -1,5 +1,7 @@
 # Navs and Navbar
 
+[Table of Content](../README.md)
+
 ## Creating Navs
 
 1. Basic Nav Classes:

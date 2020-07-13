@@ -4,7 +4,7 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 
 ## Self-Study Notes
 
-### Bootstrap
+## Bootstrap
 
 1. [Basic styles](Bootstrap/bt-1.md)
 
@@ -23,8 +23,11 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 4. [Read: 05 - HTML Images; CSS Color & Text](https://pengchen11.github.io/reading-notes/201/class-05)
   
 5. [Read: 06 - JS Object Literals; The DOM](https://pengchen11.github.io/reading-notes/201/class-06)
+
 6. [Read: 07 - HTML Tables; JS Constructor Functions](https://pengchen11.github.io/reading-notes/201/class-07)
+
 7. [Read: 08 - More CSS Layout](https://pengchen11.github.io/reading-notes/201/class-08)
+
 8. [Read: 09 - Forms and Events](https://pengchen11.github.io/reading-notes/201/class-09)
 
 9. [Read: 10 - JS Debugging](https://pengchen11.github.io/reading-notes/201/class-10)

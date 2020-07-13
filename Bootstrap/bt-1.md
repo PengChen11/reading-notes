@@ -1,5 +1,7 @@
 # Get Started with bootstrap
 
+[Table of Content](../README.md)
+
 ## Install
 
 1. Can use CDN or download the JS and CSS to use Bootstrap without network connection.
