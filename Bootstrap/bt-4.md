@@ -103,3 +103,10 @@
   - .breadcrumb-item go to items
   - .active style
   - can be used in `<li>` and `<a>` inside `<nav>`
+
+## Shadows
+
+- .shadow-none
+- .shadow-sn
+- .shadow-lg
+- .shadow
