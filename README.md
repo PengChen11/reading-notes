@@ -12,6 +12,8 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 
 3. [Navs and Navbar](Bootstrap/bt-3.md)
 
+4. [Style element](Bootstrap/bt-4.md)
+
 ## Code 201 Reading Notes
 
 1. [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://pengchen11.github.io/reading-notes/201/class-02).
