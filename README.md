@@ -14,6 +14,10 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 
 4. [Style element](Bootstrap/bt-4.md)
 
+## Test-Driven Development in Django
+
+1. [something](tdd/1.md)
+
 ## Code 201 Reading Notes
 
 1. [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://pengchen11.github.io/reading-notes/201/class-02).
@@ -74,7 +78,7 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 
 14. [Read: 15 - Diversity and Inclusion](https://pengchen11.github.io/reading-notes/301/301-15)
 
-## Code 401 Reading Notes
+## Code 401 advanced Python Reading Notes
 
 1. [Class 01 reading](https://pengchen11.github.io/reading-notes/401/401-01)
 
@@ -147,6 +151,12 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 35. [Class 42 readings: Pythonisms](https://pengchen11.github.io/reading-notes/401/401-42)
 
 36. [Class 43 readings: SASS](https://pengchen11.github.io/reading-notes/401/401-43)
+
+## JS 401 notes
+
+1. [Prep readings: Engineering Topics](https://pengchen11.github.io/reading-notes/401JS/JS-00)
+
+2. [Class 1 readings:](https://pengchen11.github.io/reading-notes/401JS/JS-01)
 
 ## Python Notes
 
