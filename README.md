@@ -156,7 +156,7 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 
 1. [Prep readings: Engineering Topics](https://pengchen11.github.io/reading-notes/401JS/JS-00)
 
-2. [Class 1 readings:](https://pengchen11.github.io/reading-notes/401JS/JS-01)
+2. [Class 1 readings:  Node Ecosystem, TDD, CI/CD](https://pengchen11.github.io/reading-notes/401JS/JS-01)
 
 ## Python Notes
 
