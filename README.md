@@ -158,6 +158,8 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 
 2. [Class 1 readings:  Node Ecosystem, TDD, CI/CD](https://pengchen11.github.io/reading-notes/401JS/JS-01)
 
+3. [Class 2 readings: Classes, Inheritance, Functional Programming](https://pengchen11.github.io/reading-notes/401JS/JS-02)
+
 ## Python Notes
 
 1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
