@@ -162,6 +162,8 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 
 4. [Class 3 readings: Data Modeling & NoSQL Databases](https://pengchen11.github.io/reading-notes/401JS/JS-03)
 
+5. [Class 4 readings: Advanced Mongo/Mongoose](https://pengchen11.github.io/reading-notes/401JS/JS-04)
+
 ## Python Notes
 
 1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
