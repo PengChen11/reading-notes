@@ -168,6 +168,8 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 
 7. [Class 7 readings: Express](https://pengchen11.github.io/reading-notes/401JS/JS-07)
 
+8. [Class 8 readings: Express Routing & Connected API](https://pengchen11.github.io/reading-notes/401JS/JS-08)
+
 ## Python Notes
 
 1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
