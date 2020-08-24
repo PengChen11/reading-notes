@@ -172,6 +172,8 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 
 9. [Class 9 readings: API Server](https://pengchen11.github.io/reading-notes/401JS/JS-09)
 
+10. [Class 10 readings: Authentication](https://pengchen11.github.io/reading-notes/401JS/JS-10)
+
 ## Python Notes
 
 1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
