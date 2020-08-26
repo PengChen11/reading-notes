@@ -174,6 +174,8 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 
 10. [Class 10 readings: Authentication](https://pengchen11.github.io/reading-notes/401JS/JS-10)
 
+11. [Class 11 readings: OAuth](https://pengchen11.github.io/reading-notes/401JS/JS-11)
+
 ## Python Notes
 
 1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
