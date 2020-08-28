@@ -178,6 +178,8 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 
 12. [Class 13 readings: Bearer Authorization](https://pengchen11.github.io/reading-notes/401JS/JS-13)
 
+13. [Class 14 readings: Access Control (ACL)](https://pengchen11.github.io/reading-notes/401JS/JS-14)
+
 ## Python Notes
 
 1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
