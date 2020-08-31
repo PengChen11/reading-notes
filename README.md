@@ -4,7 +4,7 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 
 ## Self-Study Notes
 
-## Bootstrap
+### Bootstrap
 
 1. [Basic styles](Bootstrap/bt-1.md)
 
@@ -14,11 +14,29 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 
 4. [Style element](Bootstrap/bt-4.md)
 
-## Test-Driven Development in Django
+### Test-Driven Development in Django
 
-1. [something](tdd/1.md)
+1. [summary](tdd/1.md)
 
-## Code 201 Reading Notes
+### Python Notes
+
+1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
+
+2. [3-3 Logical and bit operations](https://pengchen11.github.io/reading-notes/python/3-3)
+
+3. [3-4 Lists](https://pengchen11.github.io/reading-notes/python/3-4)
+
+### TyepScript notes
+
+1. [intro](./typeScript/1.md)
+
+------
+
+------
+
+## Code Fellows notes
+
+### Code 201 Reading Notes
 
 1. [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](https://pengchen11.github.io/reading-notes/201/class-02).
 
@@ -48,7 +66,7 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
   
 14. [Read: 14b - What Google Learned About Teams](https://pengchen11.github.io/reading-notes/201/class-15)
 
-## Code 301 Reading Notes
+### Code 301 Reading Notes
 
 1. [Read: 01 - SMACSS and Responsive Web Design](https://pengchen11.github.io/reading-notes/301/301-01)
 
@@ -78,7 +96,7 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 
 14. [Read: 15 - Diversity and Inclusion](https://pengchen11.github.io/reading-notes/301/301-15)
 
-## Code 401 advanced Python Reading Notes
+### Code 401 advanced Python Reading Notes
 
 1. [Class 01 reading](https://pengchen11.github.io/reading-notes/401/401-01)
 
@@ -152,7 +170,7 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 
 36. [Class 43 readings: SASS](https://pengchen11.github.io/reading-notes/401/401-43)
 
-## JS 401 notes
+### JS 401 notes
 
 1. [Prep readings: Engineering Topics](https://pengchen11.github.io/reading-notes/401JS/JS-00)
 
@@ -180,10 +198,4 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 
 13. [Class 14 readings: Access Control (ACL)](https://pengchen11.github.io/reading-notes/401JS/JS-14)
 
-## Python Notes
-
-1. [3-2 Loops](https://pengchen11.github.io/reading-notes/python/3-2)
-
-2. [3-3 Logical and bit operations](https://pengchen11.github.io/reading-notes/python/3-3)
-
-3. [3-4 Lists](https://pengchen11.github.io/reading-notes/python/3-4)
+14. [Class 16readings: Event Driven Applications](https://pengchen11.github.io/reading-notes/401JS/JS-16)
