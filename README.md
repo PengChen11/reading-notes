@@ -26,9 +26,11 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 
 3. [3-4 Lists](https://pengchen11.github.io/reading-notes/python/3-4)
 
-### TyepScript notes
+### TypeScript notes
 
-1. [intro](./typeScript/1.md)
+1. [OOP with TypeScript](./typeScript/1.md)
+
+2. [Inheritance in TypeScript](./typeScript/2.md)
 
 ------
 
@@ -198,4 +200,6 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 
 13. [Class 14 readings: Access Control (ACL)](https://pengchen11.github.io/reading-notes/401JS/JS-14)
 
-14. [Class 16readings: Event Driven Applications](https://pengchen11.github.io/reading-notes/401JS/JS-16)
+14. [Class 16 readings: Event Driven Applications](https://pengchen11.github.io/reading-notes/401JS/JS-16)
+
+15. [Class 17 readings: TCP Servers](https://pengchen11.github.io/reading-notes/401JS/JS-17)
