@@ -205,3 +205,5 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 15. [Class 17 readings: TCP Servers](https://pengchen11.github.io/reading-notes/401JS/JS-17)
 
 16. [Class 18 readings: Sockets](https://pengchen11.github.io/reading-notes/401JS/JS-18)
+
+17. [Class 19 readings: Message Queues](https://pengchen11.github.io/reading-notes/401JS/JS-19)
