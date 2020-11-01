@@ -207,3 +207,5 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 16. [Class 18 readings: Sockets](https://pengchen11.github.io/reading-notes/401JS/JS-18)
 
 17. [Class 19 readings: Message Queues](https://pengchen11.github.io/reading-notes/401JS/JS-19)
+
+17. [Class 26 readings:  Component Based UI](https://pengchen11.github.io/reading-notes/401JS/JS-26)
