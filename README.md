@@ -211,3 +211,5 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 18. [Class 26 readings:  Component Based UI](https://pengchen11.github.io/reading-notes/401JS/JS-26)
 
 19. [Class 27 readings:  Props and State](https://pengchen11.github.io/reading-notes/401JS/JS-27)
+
+20. [Class 28 readings:  Readings: Component Composition](https://pengchen11.github.io/reading-notes/401JS/JS-28)
