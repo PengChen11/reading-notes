@@ -212,4 +212,6 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 
 19. [Class 27 readings:  Props and State](https://pengchen11.github.io/reading-notes/401JS/JS-27)
 
-20. [Class 28 readings:  Readings: Component Composition](https://pengchen11.github.io/reading-notes/401JS/JS-28)
+20. [Class 28 readings: Component Composition](https://pengchen11.github.io/reading-notes/401JS/JS-28)
+
+21. [Class 29 readings:  Readings: Routing](https://pengchen11.github.io/reading-notes/401JS/JS-29)
