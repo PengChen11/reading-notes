@@ -217,3 +217,5 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 21. [Class 29 readings:  Readings: Routing](https://pengchen11.github.io/reading-notes/401JS/JS-29)
 
 22. [Class 31 readings:  Readings: Hooks API](https://pengchen11.github.io/reading-notes/401JS/JS-31)
+
+23. [Class 32 readings:  Readings: Custom Hooks](https://pengchen11.github.io/reading-notes/401JS/JS-32)
