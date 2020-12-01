@@ -221,3 +221,5 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 23. [Class 32 readings:  Readings: Custom Hooks](https://pengchen11.github.io/reading-notes/401JS/JS-32)
 
 24. [Class 33 readings:  Readings: Context API](https://pengchen11.github.io/reading-notes/401JS/JS-33)
+
+25. [Class 34 readings:  Readings: `<Login />` and `<Auth />`](https://pengchen11.github.io/reading-notes/401JS/JS-34)
