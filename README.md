@@ -227,3 +227,5 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 26. [Class 36 readings:  Readings:  Application State with Redux](https://pengchen11.github.io/reading-notes/401JS/JS-36)
 
 27. [Class 37 readings:  Readings:  Combined Reducers](https://pengchen11.github.io/reading-notes/401JS/JS-37)
+
+28. [Class 38 readings:  Readings:  Asynchronous Actions](https://pengchen11.github.io/reading-notes/401JS/JS-38)
