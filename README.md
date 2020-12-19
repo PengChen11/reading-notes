@@ -229,3 +229,5 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 27. [Class 37 readings:  Readings:  Combined Reducers](https://pengchen11.github.io/reading-notes/401JS/JS-37)
 
 28. [Class 38 readings:  Readings:  Asynchronous Actions](https://pengchen11.github.io/reading-notes/401JS/JS-38)
+
+29. [Class 39 readings:  Readings:  Additional Topics](https://pengchen11.github.io/reading-notes/401JS/JS-39)
