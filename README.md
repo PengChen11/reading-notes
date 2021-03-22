@@ -231,3 +231,7 @@ This is my notebook contains the notes for knowledge that I self-studied and lea
 28. [Class 38 readings:  Readings:  Asynchronous Actions](https://pengchen11.github.io/reading-notes/401JS/JS-38)
 
 29. [Class 39 readings:  Readings:  Additional Topics](https://pengchen11.github.io/reading-notes/401JS/JS-39)
+
+### JS 401 notes
+
+1. [Class 1 readings:  Java Basics](https://pengchen11.github.io/reading-notes/401java/java-01)
